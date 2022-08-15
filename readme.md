@@ -14,3 +14,8 @@
 >server (npm run server)
 
 ### git
+| git |  |
+| ------ | --------|
+| add . | dosya ekleme |
+| commit -m "...." | dosyaları kalıcı olarak ekleme|
+| merge (dosya adı) | farklı branchleri birleştirme|
